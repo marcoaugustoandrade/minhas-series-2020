@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.cabecalho{
+    background-color: #C0392B;
+    background: linear-gradient(180deg, rgba(192,57,43,1) 0%, rgba(231,76,60,1) 100%);
+}
+.menu{
+    list-style: none;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.titulo{
+    color: #FFFFFF;
+    text-shadow: 1px 1px 2px #000000;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.titulo-branco{
+    color: #C0392B;
+    background-color: #FFFFFF;
+}
